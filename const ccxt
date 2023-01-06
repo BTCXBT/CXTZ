@@ -1,0 +1,9 @@
+const ccxt = require('ccxt');
+
+async function main() {
+  const exchange = new ccxt.ftx();
+  const book = await exchange.watchOrderBook();
+  console.log(book);
+}
+
+main();
