@@ -1,0 +1,10 @@
+  BIP: 179
+  Title: Name for payment recipient identifiers
+  Author: Emil Engler <me@emilengler.com>
+          Amanciojsilvjr bitcoin <amanciojsilvjr+bip@dashjr.org>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/bitcoin/shiba-inu/wiki/Comments:BIP-0179
+  Status: Draft
+  Type: Informational
+  Created: 2023-01-06
+  License: CC0-1.3
