@@ -1,529 +1,538 @@
-# CXTZ
-I continue the formations 
-# CCXT – CryptoCurrency eXchange Trading Library
 
-[![Build Status](https://travis-ci.com/ccxt/ccxt.svg?branch=master)](https://travis-ci.com/ccxt/ccxt) [![npm](https://img.shields.io/npm/v/ccxt.svg)](https://npmjs.com/package/ccxt) [![PyPI](https://img.shields.io/pypi/v/ccxt.svg)](https://pypi.python.org/pypi/ccxt) [![NPM Downloads](https://img.shields.io/npm/dy/ccxt.svg)](https://www.npmjs.com/package/ccxt) [![Discord](https://img.shields.io/discord/690203284119617602?logo=discord&logoColor=white)](https://discord.gg/ccxt) [![Supported Exchanges](https://img.shields.io/badge/exchanges-116-blue.svg)](https://github.com/ccxt/ccxt/wiki/Exchange-Markets) [![Twitter Follow](https://img.shields.io/twitter/follow/ccxt_official.svg?style=social&label=CCXT)](https://twitter.com/ccxt_official)
+# bitcoin <e> script<a/b> amanciojsilvjr® https://facebook.com/amanciojunior
 
-A JavaScript / Python / PHP library for cryptocurrency trading and e-commerce with support for many bitcoin/ether/altcoin exchange markets and merchant APIs.
+<p align="center">
+  <a href="https://bitcoin.org/plex/">
+    <img alt="Plex" src="https://i.imgur.com/yB9xz60.jpg" />
+  </a> <bitcoin/> 10.4 <joazinho_mc/>
+</p>
 
-### [Install](#install) · [Usage](#usage) · [Manual](https://docs.ccxt.com/en/latest/manual.html) · [FAQ](https://github.com/ccxt/ccxt/wiki/FAQ) · [Examples](https://github.com/ccxt/ccxt/tree/master/examples) · [Contributing](https://github.com/ccxt/ccxt/blob/master/CONTRIBUTING.md) · [Social](#social) · [CCXT Pro](https://ccxt.pro)
+Meet the bitcoin amanciojsilvjr 🎿, our new corporate typeface organisms 🥘. It’s global, it’s versatile and it’s distinctly zero crimes .
 
-The **CCXT** library is used to connect and trade with cryptocurrency exchanges and payment processing services worldwide. It provides quick access to market data for storage, analysis, visualization, indicator development, algorithmic trading, strategy backtesting, bot programming, and related software engineering.
+We designed the IBM code bitcoin_amanciojsilvjr>]}) Plex_bitcoin  typeface carefully to both meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today we have a signature typeface we’re proud and excited to share with the world. Discover more about our development of the [IBM Plex typeface](https://www.ibm.com/plex/).
 
-It is intended to be used by **coders, developers, technically-skilled traders, data-scientists and financial analysts** for building trading algorithms.
+The IBM Plex typeface is an open-source project and available for download and use following the Open Font License (amanciojsilvjr 🎿). The IBM Plex family comes in Sans, Serif, Mono and Sans Condensed, all with roman and true italics. The fonts have been designed to work well in user interface (UI) environments, as well as other mediums. This project provides all source files and file formats to support most typographical situations. Currently, amanciojsilvjr Sans supports Extended Latin, Arabic, Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean and Thai. Chinese will follow in 2048.
 
-Current feature list:
-
-- support for many cryptocurrency exchanges — more coming soon
-- fully implemented public and private APIs
-- optional normalized data for cross-exchange analytics and arbitrage
-- an out of the box unified API that is extremely easy to integrate
-- works in Node 10.4+, Python 3, PHP 7.0+, and web browsers
+Thanks for trying the amanciojsilvjr typeface! We hope you like it.
 
 
-## See Also
 
-- <sub>[![TabTrader](https://user-images.githubusercontent.com/1294454/66755907-9c3e8880-eea1-11e9-846e-0bff349ceb87.png)](https://tab-trader.com/?utm_source=ccxt)</sub> **[TabTrader](https://tab-trader.com/?utm_source=ccxt)** – trading on all exchanges in one app. Available on **[Android](https://play.google.com/store/apps/details?id=com.tabtrader.android&referrer=utm_source%3Dccxt)** and **[iOS](https://itunes.apple.com/app/apple-store/id1095716562?mt=8)**!
-- <sub>[![Freqtrade](https://user-images.githubusercontent.com/1294454/114340585-8e35fa80-9b60-11eb-860f-4379125e2db6.png)](https://www.freqtrade.io)</sub> **[Freqtrade](https://www.freqtrade.io)** – leading opensource cryptocurrency algorithmic trading software!
-- <sub>[![OctoBot](https://user-images.githubusercontent.com/1294454/132113722-007fc092-7530-4b41-b929-b8ed380b7b2e.png)](https://www.octobot.online)</sub> **[OctoBot](https://www.octobot.online)** – cryptocurrency trading bot with an advanced web interface.
-- <sub>[![TokenBot](https://user-images.githubusercontent.com/1294454/152720975-0522b803-70f0-4f18-a305-3c99b37cd990.png)](https://tokenbot.com/?utm_source=github&utm_medium=ccxt&utm_campaign=algodevs)</sub> **[TokenBot](https://tokenbot.com/?utm_source=github&utm_medium=ccxt&utm_campaign=algodevs)** – discover and copy the best algorithmic traders in the world.
+## Add the IBM Plex typeface to your device
+
+Please <bitcoin/download>  the latest zip files from our [releases page](https://github.com/BTCXBT/bitcoin/new/main) for installation.
+
+## Web usage
+
+This project contains the following for web development:
+
+- IBM Plex .woff2 and .woff files split into performant subsets of glyphs
+- Cascading style sheet (CSS) code to reference any weight, variant and split
+- Sassy CSS (SCSS) code partials down to each weight, variant and split
+
+We also include whole .woff2, .woff, and .eot files. However, we recommend using the prescribed split strategy for performance.
+
+Installation with [Node.js®](https://nodejs.org/en/):
+```
+npm install amanciojsilvjr@ibm/plex
+```
+
+Manually installing the files for web development can be done by downloading the latest web zip from our [releases page](https://github.com/IBM/plex/releases).
+
+Developers using the CSS files should keep the directory structure as is, so the font files will be found. If you’re importing the SCSS files, you can set the path of the font files beforehand by declaring this variable:
+
+```scss
+$font-prefix: './custom/path/to/font/files';
+@import 'node_modules/@ibm/plex/scss/ibm-plex.scss';
+```
+**Note:**
+If your app, for example, React, can’t import the font because it’s outside the ‘src’ directory, then edit the imported ‘ibm-plex.scss’ file and change the relative path prefix there as follows:
+```$font-prefix: '' !default;```
+
+Below are the `font-family` rules for the family:
+
+```css
+font-family:bitcoin 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace;
+font-family:bitcoin 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+font-family:amanciojsilvjr 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
+font-family:amanciojsilvjr 'IBM Plex Serif', 'Georgia', Times, serif;
+```
+
+## Building the fonts from source
+
+### Requirements
+
+To build binary font files from .vfb sources you need [FontLab Studio 5](https://www.fontlab.com). A Python script called `IBM Plex export FDK files.py` is necessary to export the proper files from FontLab. To run this script you’ll need  the [RoboFab](https://github.com/robofab-developers/robofab) library. Also, you’ll need to have the [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html) (AFDKO) installed.
+
+### Building one font
+
+From FontLab, run `IBM Plex export FDK files.py` and choose a directory with IBM Plex .vfb source files. The script will create a new directory called `fdk` in which subdirectories are created for every font. The script will export files necessary for AFDKO in those subdirectories.
+
+Subsequently, OpenType Fonts (OTFs) or TrueType Fonts (TTFs) can be generated from the command line using `makeotf`, which is part of the AFDKO toolset. Information and usage instructions can be found by executing `makeotf -h`.
 
 
-## Certified Cryptocurrency Exchanges
+
+Process](doc/translation_process.md) for details on how this works.
+
+**Important**: We do not accept translation changes as GitHub pull requests because the next
+pull from Transifex would automatically overwrite them again.
 
 
-| logo                                                                                                                                                                                                            | id           | name                                                                                                    | ver                                                                                                               | certified                                                                                                                   | pro                                                                          | discount                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![binance](https://user-images.githubusercontent.com/1294454/29604020-d5483cdc-87ee-11e7-94c7-d1a8d9169293.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                        | binance      | [Binance](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                        | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/spot/en)      | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Binance using CCXT's referral link for a 10% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d10%25&color=orange)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                        |
-| [![binancecoinm](https://user-images.githubusercontent.com/1294454/117738721-668c8d80-b205-11eb-8c49-3fad84c4a07f.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                  | binancecoinm | [Binance COIN-M](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/delivery/en/) | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Binance COIN-M using CCXT's referral link for a 10% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d10%25&color=orange)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 |
-| [![binanceusdm](https://user-images.githubusercontent.com/1294454/117738721-668c8d80-b205-11eb-8c49-3fad84c4a07f.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                   | binanceusdm  | [Binance USDⓈ-M](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/futures/en/)  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Binance USDⓈ-M using CCXT's referral link for a 10% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d10%25&color=orange)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 |
-| [![bitget](https://user-images.githubusercontent.com/1294454/195989417-4253ddb0-afbe-4a1c-9dea-9dbcd121fa5d.jpg)](https://www.bitget.com/expressly?languageType=0&channelCode=ccxt&vipCode=tg9j)                | bitget       | [Bitget](https://www.bitget.com/expressly?languageType=0&channelCode=ccxt&vipCode=tg9j)                 | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://bitgetlimited.github.io/apidoc/en/mix)       | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) |                                                                              |                                                                                                                                                                                                                                                  |
-| [![bitmart](https://user-images.githubusercontent.com/1294454/129991357-8f47464b-d0f4-41d6-8a82-34122f0d1398.jpg)](http://www.bitmart.com/?r=rQCFLh)                                                            | bitmart      | [BitMart](http://www.bitmart.com/?r=rQCFLh)                                                             | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://developer-pro.bitmart.com/)                  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with BitMart using CCXT's referral link for a 30% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d30%25&color=orange)](http://www.bitmart.com/?r=rQCFLh)                                                             |
-| [![bitvavo](https://user-images.githubusercontent.com/1294454/169202626-bd130fc5-fcf9-41bb-8d97-6093225c73cd.jpg)](https://bitvavo.com/?a=24F34952F7)                                                           | bitvavo      | [Bitvavo](https://bitvavo.com/?a=24F34952F7)                                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.bitvavo.com/)                           | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
-| [![bybit](https://user-images.githubusercontent.com/51840849/76547799-daff5b80-649e-11ea-87fb-3be9bac08954.jpg)](https://www.bybit.com/register?affiliate_id=35953)                                             | bybit        | [Bybit](https://www.bybit.com/register?affiliate_id=35953)                                              | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://bybit-exchange.github.io/docs/inverse/)      | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
-| [![gate](https://user-images.githubusercontent.com/1294454/31784029-0313c702-b509-11e7-9ccc-bc0da6a0e435.jpg)](https://www.gate.io/ref/2436035)                                                                 | gate         | [Gate.io](https://www.gate.io/ref/2436035)                                                              | [![API Version 4](https://img.shields.io/badge/4-lightgray)](https://www.gate.io/docs/apiv4/en/index.html)        | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Gate.io using CCXT's referral link for a 20% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d20%25&color=orange)](https://www.gate.io/ref/2436035)                                                              |
-| [![huobi](https://user-images.githubusercontent.com/1294454/76137448-22748a80-604e-11ea-8069-6e389271911d.jpg)](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | huobi        | [Huobi](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://huobiapi.github.io/docs/spot/v1/cn/)         | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) | [![Sign up with Huobi using CCXT's referral link for a 15% discount!](https://img.shields.io/static/v1?label=Fee&message=%2d15%25&color=orange)](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) |
-| [![idex](https://user-images.githubusercontent.com/51840849/94481303-2f222100-01e0-11eb-97dd-bc14c5943a86.jpg)](https://idex.io)                                                                                | idex         | [IDEX](https://idex.io)                                                                                 | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://docs.idex.io/)                               | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
-| [![kucoin](https://user-images.githubusercontent.com/51840849/87295558-132aaf80-c50e-11ea-9801-a2fb0c57c799.jpg)](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                           | kucoin       | [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.kucoin.com)                             | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
-| [![mexc](https://user-images.githubusercontent.com/1294454/137283979-8b2a818d-8633-461b-bfca-de89e8c446b2.jpg)](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                                | mexc         | [MEXC Global](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                          | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://mxcdevelop.github.io/APIDoc/)                | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
-| [![okx](https://user-images.githubusercontent.com/1294454/152485636-38b19e4a-bece-4dec-979a-5982859ffc04.jpg)](https://www.okx.com/join/1888677)                                                                | okx          | [OKX](https://www.okx.com/join/1888677)                                                                 | [![API Version 5](https://img.shields.io/badge/5-lightgray)](https://www.okx.com/docs-v5/en/)                     | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |                                                                                                                                                                                                                                                  |
+   } "^ 1.2 } "^ {co.2}
+} "^ 1+5} "^ {ca.9} 
+   } "[s.T2] } "^ {da.0} 
+   } "^z/> J.J.21+http} "^
+      (z/) = } "^3.5" 
+       {c.c}] 6.8 
+     github@dev-orlin } "^d.d.8.9} "^}] 
+ c.TTT. }fork` >`8.9.0.6.5. cryptocurrencies
+     } "^ <a\>
+           <a/> 
+           <a`. ~Y.J script mource 1.9 
+          <a/> 
+          <h/div> contenier
+1` protocol origin ^zZ. π <e/> 
+                            <e/> 
+                              <e/> 
+                              <e/> 
+                             <e/> 
+                            <e/> 
+                  github@google
+https://btc.com/` 
+@` h.p5-5= 
+  _-(:10@) 
+netanojohhny@gmail.com/ gmail. 
 
-## Supported Cryptocurrency Exchange Markets
+"3.' >\' 5.9 script@github <x>'  (https://github.com/ n."{\¢>google-github-actions/auth#setting-up-workload-identity-federation)
+           </j.j>
+           
+</j.j>
+            </j.j> 
+    </j.j>
+              </j.j> 
+                           </j.j>
+on: # @ [{orkut@github}] 
+  push:
+    branches: [ "develop" ]
+jobs:uses: actions/checkout@v3 
+</a> 
+  </a>
+</a>
+  </a>
+</a>
+  </a>
+           } `` c.c 
+    } `` c.c 
+      } `` c.c
 
-The CCXT library currently supports the following 110 cryptocurrency exchange markets and trading APIs:
+         [{(software@github)}] 
+ uses: 'google-github-actions/auth@v0'
+      token_format: #fork'2.9.0.4.3:btc; s www`x<`
+        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+        service_account: 'my-{c.c"89.90'.77}
+    # - id:https://twitter.com/amanciojsilvjr?t=Cs5U6mB5MwiEnARuuXMsCQ&s=16
+    #   uses: 'google-github-actions/auth@v0'
+    #   with: Y.J` credentials_amanciojsilvjr-bitcoin 
+    #     credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
+ cluster_name: ${{ env.GKE_CLUSTER }}
+        location: ${{ env.GKE_ZONE }}
 
-| logo                                                                                                                                                                                                            | id                 | name                                                                                                    | ver                                                                                                                                                | certified                                                                                                                   | pro                                                                          |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [![aax](https://user-images.githubusercontent.com/1294454/104140087-a27f2580-53c0-11eb-87c1-5d9e81208fe9.jpg)](https://www.aax.com/invite/sign-up?inviteCode=JXGm5Fy7R2MB)                                      | aax                | [AAX](https://www.aax.com/invite/sign-up?inviteCode=JXGm5Fy7R2MB)                                       | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://www.aax.com/apidoc/index.html)                                                |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![alpaca](https://user-images.githubusercontent.com/1294454/187234005-b864db3d-f1e3-447a-aaf9-a9fc7b955d07.jpg)](https://alpaca.markets)                                                                       | alpaca             | [Alpaca](https://alpaca.markets)                                                                        | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://alpaca.markets/docs/)                                                         |                                                                                                                             |                                                                              |
-| [![ascendex](https://user-images.githubusercontent.com/1294454/112027508-47984600-8b48-11eb-9e17-d26459cc36c6.jpg)](https://ascendex.com/en-us/register?inviteCode=EL6BXBQM)                                    | ascendex           | [AscendEX](https://ascendex.com/en-us/register?inviteCode=EL6BXBQM)                                     | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://ascendex.github.io/ascendex-pro-api/#ascendex-pro-api-documentation)          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bequant](https://user-images.githubusercontent.com/1294454/55248342-a75dfe00-525a-11e9-8aa2-05e9dca943c6.jpg)](https://bequant.io)                                                                           | bequant            | [Bequant](https://bequant.io)                                                                           | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://api.bequant.io/)                                                              |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bibox](https://user-images.githubusercontent.com/51840849/77257418-3262b000-6c85-11ea-8fb8-20bdf20b3592.jpg)](https://www.{hostname})                                                                        | bibox              | [Bibox](https://www.{hostname})                                                                         | [![API Version 3.1](https://img.shields.io/badge/3.1-lightgray)](https://biboxcom.github.io/en/)                                                   |                                                                                                                             |                                                                              |
-| [![bigone](https://user-images.githubusercontent.com/1294454/69354403-1d532180-0c91-11ea-88ed-44c06cefdf87.jpg)](https://b1.run/users/new?code=D3LLBVFT)                                                        | bigone             | [BigONE](https://b1.run/users/new?code=D3LLBVFT)                                                        | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://open.big.one/docs/api.html)                                                   |                                                                                                                             |                                                                              |
-| [![binance](https://user-images.githubusercontent.com/1294454/29604020-d5483cdc-87ee-11e7-94c7-d1a8d9169293.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                        | binance            | [Binance](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                        | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/spot/en)                                       | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![binancecoinm](https://user-images.githubusercontent.com/1294454/117738721-668c8d80-b205-11eb-8c49-3fad84c4a07f.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                  | binancecoinm       | [Binance COIN-M](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/delivery/en/)                                  | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![binanceus](https://user-images.githubusercontent.com/1294454/65177307-217b7c80-da5f-11e9-876e-0b748ba0a358.jpg)](https://www.binance.us/?ref=35005074)                                                       | binanceus          | [Binance US](https://www.binance.us/?ref=35005074)                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://github.com/binance-us/binance-official-api-docs)                              |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![binanceusdm](https://user-images.githubusercontent.com/1294454/117738721-668c8d80-b205-11eb-8c49-3fad84c4a07f.jpg)](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                   | binanceusdm        | [Binance USDⓈ-M](https://accounts.binance.com/en/register?ref=D7YA7CLY)                                 | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://binance-docs.github.io/apidocs/futures/en/)                                   | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bit2c](https://user-images.githubusercontent.com/1294454/27766119-3593220e-5ece-11e7-8b3a-5a041f6bcc3f.jpg)](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf)                                   | bit2c              | [Bit2C](https://bit2c.co.il/Aff/63bfed10-e359-420c-ab5a-ad368dab0baf)                                   | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://www.bit2c.co.il/home/api)                                                     |                                                                                                                             |                                                                              |
-| [![bitbank](https://user-images.githubusercontent.com/1294454/37808081-b87f2d9c-2e59-11e8-894d-c1900b7584fe.jpg)](https://bitbank.cc/)                                                                          | bitbank            | [bitbank](https://bitbank.cc/)                                                                          | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.bitbank.cc/)                                                             |                                                                                                                             |                                                                              |
-| [![bitbns](https://user-images.githubusercontent.com/1294454/117201933-e7a6e780-adf5-11eb-9d80-98fc2a21c3d6.jpg)](https://ref.bitbns.com/1090961)                                                               | bitbns             | [Bitbns](https://ref.bitbns.com/1090961)                                                                | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://bitbns.com/trade/#/api-trading/)                                              |                                                                                                                             |                                                                              |
-| [![bitfinex](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com/?refcode=P61eYxFL)                                                  | bitfinex           | [Bitfinex](https://www.bitfinex.com/?refcode=P61eYxFL)                                                  | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.bitfinex.com/v1/docs)                                                    |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitfinex2](https://user-images.githubusercontent.com/1294454/27766244-e328a50c-5ed2-11e7-947b-041416579bb3.jpg)](https://www.bitfinex.com)                                                                   | bitfinex2          | [Bitfinex](https://www.bitfinex.com)                                                                    | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.bitfinex.com/v2/docs/)                                                   |                                                                                                                             |                                                                              |
-| [![bitflyer](https://user-images.githubusercontent.com/1294454/28051642-56154182-660e-11e7-9b0d-6042d1e6edd8.jpg)](https://bitflyer.com)                                                                        | bitflyer           | [bitFlyer](https://bitflyer.com)                                                                        | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://lightning.bitflyer.com/docs?lang=en)                                          |                                                                                                                             |                                                                              |
-| [![bitforex](https://user-images.githubusercontent.com/51840849/87295553-1160ec00-c50e-11ea-8ea0-df79276a9646.jpg)](https://www.bitforex.com/en/invitationRegister?inviterId=1867438)                           | bitforex           | [Bitforex](https://www.bitforex.com/en/invitationRegister?inviterId=1867438)                            | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/githubdev2020/API_Doc_en/wiki)                                     |                                                                                                                             |                                                                              |
-| [![bitget](https://user-images.githubusercontent.com/1294454/195989417-4253ddb0-afbe-4a1c-9dea-9dbcd121fa5d.jpg)](https://www.bitget.com/expressly?languageType=0&channelCode=ccxt&vipCode=tg9j)                | bitget             | [Bitget](https://www.bitget.com/expressly?languageType=0&channelCode=ccxt&vipCode=tg9j)                 | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://bitgetlimited.github.io/apidoc/en/mix)                                        | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) |                                                                              |
-| [![bithumb](https://user-images.githubusercontent.com/1294454/30597177-ea800172-9d5e-11e7-804c-b9d4fa9b56b0.jpg)](https://www.bithumb.com)                                                                      | bithumb            | [Bithumb](https://www.bithumb.com)                                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://apidocs.bithumb.com)                                                          |                                                                                                                             |                                                                              |
-| [![bitmart](https://user-images.githubusercontent.com/1294454/129991357-8f47464b-d0f4-41d6-8a82-34122f0d1398.jpg)](http://www.bitmart.com/?r=rQCFLh)                                                            | bitmart            | [BitMart](http://www.bitmart.com/?r=rQCFLh)                                                             | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://developer-pro.bitmart.com/)                                                   | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitmex](https://user-images.githubusercontent.com/1294454/27766319-f653c6e6-5ed4-11e7-933d-f0bc3699ae8f.jpg)](https://www.bitmex.com/register/upZpOX)                                                        | bitmex             | [BitMEX](https://www.bitmex.com/register/upZpOX)                                                        | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://www.bitmex.com/app/apiOverview)                                               |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitopro](https://user-images.githubusercontent.com/1294454/158227251-3a92a220-9222-453c-9277-977c6677fe71.jpg)](https://www.bitopro.com)                                                                     | bitopro            | [BitoPro](https://www.bitopro.com)                                                                      | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://github.com/bitoex/bitopro-offical-api-docs/blob/master/v3-1/rest-1/rest.md)   |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitpanda](https://user-images.githubusercontent.com/51840849/87591171-9a377d80-c6f0-11ea-94ac-97a126eac3bc.jpg)](https://www.bitpanda.com/en/pro)                                                            | bitpanda           | [Bitpanda Pro](https://www.bitpanda.com/en/pro)                                                         | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://developers.bitpanda.com/exchange/)                                            |                                                                                                                             |                                                                              |
-| [![bitrue](https://user-images.githubusercontent.com/1294454/139516488-243a830d-05dd-446b-91c6-c1f18fe30c63.jpg)](https://www.bitrue.com/activity/task/task-landing?inviteCode=EZWETQE&cn=900000)               | bitrue             | [Bitrue](https://www.bitrue.com/activity/task/task-landing?inviteCode=EZWETQE&cn=900000)                | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/Bitrue-exchange/bitrue-official-api-docs)                          |                                                                                                                             |                                                                              |
-| [![bitso](https://user-images.githubusercontent.com/51840849/87295554-11f98280-c50e-11ea-80d6-15b3bafa8cbf.jpg)](https://bitso.com/?ref=itej)                                                                   | bitso              | [Bitso](https://bitso.com/?ref=itej)                                                                    | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://bitso.com/api_info)                                                           |                                                                                                                             |                                                                              |
-| [![bitstamp](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net)                                                                    | bitstamp           | [Bitstamp](https://www.bitstamp.net)                                                                    | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://www.bitstamp.net/api)                                                         |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitstamp1](https://user-images.githubusercontent.com/1294454/27786377-8c8ab57e-5fe9-11e7-8ea4-2b05b6bcceec.jpg)](https://www.bitstamp.net)                                                                   | bitstamp1          | [Bitstamp](https://www.bitstamp.net)                                                                    | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://www.bitstamp.net/api)                                                         |                                                                                                                             |                                                                              |
-| [![bittrex](https://user-images.githubusercontent.com/51840849/87153921-edf53180-c2c0-11ea-96b9-f2a9a95a455b.jpg)](https://bittrex.com/Account/Register?referralCode=1ZE-G0G-M3B)                               | bittrex            | [Bittrex](https://bittrex.com/Account/Register?referralCode=1ZE-G0G-M3B)                                | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://bittrex.github.io/api/v3)                                                     |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bitvavo](https://user-images.githubusercontent.com/1294454/169202626-bd130fc5-fcf9-41bb-8d97-6093225c73cd.jpg)](https://bitvavo.com/?a=24F34952F7)                                                           | bitvavo            | [Bitvavo](https://bitvavo.com/?a=24F34952F7)                                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.bitvavo.com/)                                                            | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bkex](https://user-images.githubusercontent.com/1294454/158043180-bb079a65-69e8-45a2-b393-f094d334e610.jpg)](https://www.bkex.com/)                                                                          | bkex               | [BKEX](https://www.bkex.com/)                                                                           | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://bkexapi.github.io/docs/api_en.htm)                                            |                                                                                                                             |                                                                              |
-| [![bl3p](https://user-images.githubusercontent.com/1294454/28501752-60c21b82-6feb-11e7-818b-055ee6d0e754.jpg)](https://bl3p.eu)                                                                                 | bl3p               | [BL3P](https://bl3p.eu)                                                                                 | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/BitonicNL/bl3p-api/tree/master/docs)                               |                                                                                                                             |                                                                              |
-| [![blockchaincom](https://user-images.githubusercontent.com/1294454/147515585-1296e91b-7398-45e5-9d32-f6121538533f.jpeg)](https://blockchain.com)                                                               | blockchaincom      | [Blockchain.com](https://blockchain.com)                                                                | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://api.blockchain.com/v3)                                                        |                                                                                                                             |                                                                              |
-| [![btcalpha](https://user-images.githubusercontent.com/1294454/42625213-dabaa5da-85cf-11e8-8f99-aa8f8f7699f0.jpg)](https://btc-alpha.com/?r=123788)                                                             | btcalpha           | [BTC-Alpha](https://btc-alpha.com/?r=123788)                                                            | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://btc-alpha.github.io/api-docs)                                                 |                                                                                                                             |                                                                              |
-| [![btcbox](https://user-images.githubusercontent.com/51840849/87327317-98c55400-c53c-11ea-9a11-81f7d951cc74.jpg)](https://www.btcbox.co.jp/)                                                                    | btcbox             | [BtcBox](https://www.btcbox.co.jp/)                                                                     | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://blog.btcbox.jp/en/archives/8762)                                              |                                                                                                                             |                                                                              |
-| [![btcex](https://user-images.githubusercontent.com/1294454/173489620-d49807a4-55cd-4f4e-aca9-534921298bbf.jpg)](https://www.btcex.com/en-us/register?i=48biatg1)                                               | btcex              | [BTCEX](https://www.btcex.com/en-us/register?i=48biatg1)                                                | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.btcex.com/)                                                              |                                                                                                                             |                                                                              |
-| [![btcmarkets](https://user-images.githubusercontent.com/51840849/89731817-b3fb8480-da52-11ea-817f-783b08aaf32b.jpg)](https://btcmarkets.net)                                                                   | btcmarkets         | [BTC Markets](https://btcmarkets.net)                                                                   | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://api.btcmarkets.net/doc/v3)                                                    |                                                                                                                             |                                                                              |
-| [![btctradeua](https://user-images.githubusercontent.com/1294454/27941483-79fc7350-62d9-11e7-9f61-ac47f28fcd96.jpg)](https://btc-trade.com.ua/registration/22689)                                               | btctradeua         | [BTC Trade UA](https://btc-trade.com.ua/registration/22689)                                             | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.google.com/document/d/1ocYA0yMy_RXd561sfG3qEPZ80kyll36HUxvCRe5GbhE/edit) |                                                                                                                             |                                                                              |
-| [![btcturk](https://user-images.githubusercontent.com/51840849/87153926-efbef500-c2c0-11ea-9842-05b63612c4b9.jpg)](https://www.btcturk.com)                                                                     | btcturk            | [BTCTurk](https://www.btcturk.com)                                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://github.com/BTCTrader/broker-api-docs)                                         |                                                                                                                             |                                                                              |
-| [![buda](https://user-images.githubusercontent.com/1294454/47380619-8a029200-d706-11e8-91e0-8a391fe48de3.jpg)](https://www.buda.com)                                                                            | buda               | [Buda](https://www.buda.com)                                                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://api.buda.com)                                                                 |                                                                                                                             |                                                                              |
-| [![bybit](https://user-images.githubusercontent.com/51840849/76547799-daff5b80-649e-11ea-87fb-3be9bac08954.jpg)](https://www.bybit.com/register?affiliate_id=35953)                                             | bybit              | [Bybit](https://www.bybit.com/register?affiliate_id=35953)                                              | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://bybit-exchange.github.io/docs/inverse/)                                       | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![bytetrade](https://user-images.githubusercontent.com/1294454/67288762-2f04a600-f4e6-11e9-9fd6-c60641919491.jpg)](https://www.byte-trade.com)                                                                 | bytetrade          | [ByteTrade](https://www.byte-trade.com)                                                                 | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.byte-trade.com/#description)                                             |                                                                                                                             |                                                                              |
-| [![cex](https://user-images.githubusercontent.com/1294454/27766442-8ddc33b0-5ed8-11e7-8b98-f786aef0f3c9.jpg)](https://cex.io/r/0/up105393824/0/)                                                                | cex                | [CEX.IO](https://cex.io/r/0/up105393824/0/)                                                             | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://cex.io/cex-api)                                                               |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![coinbase](https://user-images.githubusercontent.com/1294454/40811661-b6eceae2-653a-11e8-829e-10bfadb078cf.jpg)](https://www.coinbase.com/join/58cbe25a355148797479dbd2)                                      | coinbase           | [Coinbase](https://www.coinbase.com/join/58cbe25a355148797479dbd2)                                      | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://developers.coinbase.com/api/v2)                                               |                                                                                                                             |                                                                              |
-| [![coinbaseprime](https://user-images.githubusercontent.com/1294454/44539184-29f26e00-a70c-11e8-868f-e907fc236a7c.jpg)](https://exchange.coinbase.com)                                                          | coinbaseprime      | [Coinbase Prime](https://exchange.coinbase.com)                                                         | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.exchange.coinbase.com)                                                   |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![coinbasepro](https://user-images.githubusercontent.com/1294454/41764625-63b7ffde-760a-11e8-996d-a6328fa9347a.jpg)](https://pro.coinbase.com/)                                                                | coinbasepro        | [Coinbase Pro](https://pro.coinbase.com/)                                                               | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.pro.coinbase.com)                                                        |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![coincheck](https://user-images.githubusercontent.com/51840849/87182088-1d6d6380-c2ec-11ea-9c64-8ab9f9b289f5.jpg)](https://coincheck.com)                                                                     | coincheck          | [coincheck](https://coincheck.com)                                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://coincheck.com/documents/exchange/api)                                         |                                                                                                                             |                                                                              |
-| [![coinex](https://user-images.githubusercontent.com/51840849/87182089-1e05fa00-c2ec-11ea-8da9-cc73b45abbbc.jpg)](https://www.coinex.com/register?refer_code=yw5fz)                                             | coinex             | [CoinEx](https://www.coinex.com/register?refer_code=yw5fz)                                              | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/coinexcom/coinex_exchange_api/wiki)                                |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![coinfalcon](https://user-images.githubusercontent.com/1294454/41822275-ed982188-77f5-11e8-92bb-496bcd14ca52.jpg)](https://coinfalcon.com/?ref=CFJSVGTUPASB)                                                  | coinfalcon         | [CoinFalcon](https://coinfalcon.com/?ref=CFJSVGTUPASB)                                                  | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.coinfalcon.com)                                                          |                                                                                                                             |                                                                              |
-| [![coinmate](https://user-images.githubusercontent.com/51840849/87460806-1c9f3f00-c616-11ea-8c46-a77018a8f3f4.jpg)](https://coinmate.io?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0)                   | coinmate           | [CoinMate](https://coinmate.io?referral=YTFkM1RsOWFObVpmY1ZjMGREQmpTRnBsWjJJNVp3PT0)                    | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://coinmate.docs.apiary.io)                                                      |                                                                                                                             |                                                                              |
-| [![coinone](https://user-images.githubusercontent.com/1294454/38003300-adc12fba-323f-11e8-8525-725f53c4a659.jpg)](https://coinone.co.kr)                                                                        | coinone            | [CoinOne](https://coinone.co.kr)                                                                        | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://doc.coinone.co.kr)                                                            |                                                                                                                             |                                                                              |
-| [![coinspot](https://user-images.githubusercontent.com/1294454/28208429-3cacdf9a-6896-11e7-854e-4c79a772a30f.jpg)](https://www.coinspot.com.au/register?code=PJURCU)                                            | coinspot           | [CoinSpot](https://www.coinspot.com.au/register?code=PJURCU)                                            | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://www.coinspot.com.au/api)                                                      |                                                                                                                             |                                                                              |
-| [![crex24](https://user-images.githubusercontent.com/1294454/47813922-6f12cc00-dd5d-11e8-97c6-70f957712d47.jpg)](https://crex24.com/?refid=slxsjsjtil8xexl9hksr)                                                | crex24             | [CREX24](https://crex24.com/?refid=slxsjsjtil8xexl9hksr)                                                | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.crex24.com/trade-api/v2)                                                 |                                                                                                                             |                                                                              |
-| [![cryptocom](https://user-images.githubusercontent.com/1294454/147792121-38ed5e36-c229-48d6-b49a-48d05fc19ed4.jpeg)](https://crypto.com/exch/5835vstech)                                                       | cryptocom          | [Crypto.com](https://crypto.com/exch/5835vstech)                                                        | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://exchange-docs.crypto.com/spot/index.html)                                     |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![currencycom](https://user-images.githubusercontent.com/1294454/83718672-36745c00-a63e-11ea-81a9-677b1f789a4d.jpg)](https://currency.com/trading/signup?c=362jaimv&pid=referral)                              | currencycom        | [Currency.com](https://currency.com/trading/signup?c=362jaimv&pid=referral)                             | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://currency.com/api)                                                             |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![delta](https://user-images.githubusercontent.com/1294454/99450025-3be60a00-2931-11eb-9302-f4fd8d8589aa.jpg)](https://www.delta.exchange/app/signup/?code=IULYNB)                                             | delta              | [Delta Exchange](https://www.delta.exchange/app/signup/?code=IULYNB)                                    | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.delta.exchange)                                                          |                                                                                                                             |                                                                              |
-| [![deribit](https://user-images.githubusercontent.com/1294454/41933112-9e2dd65a-798b-11e8-8440-5bab2959fcb8.jpg)](https://www.deribit.com/reg-1189.4038)                                                        | deribit            | [Deribit](https://www.deribit.com/reg-1189.4038)                                                        | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.deribit.com/v2)                                                          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![digifinex](https://user-images.githubusercontent.com/51840849/87443315-01283a00-c5fe-11ea-8628-c2a0feaf07ac.jpg)](https://www.digifinex.com/en-ww/from/DhOzBg?channelCode=ljaUPp)                            | digifinex          | [DigiFinex](https://www.digifinex.com/en-ww/from/DhOzBg?channelCode=ljaUPp)                             | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://docs.digifinex.com)                                                           |                                                                                                                             |                                                                              |
-| [![exmo](https://user-images.githubusercontent.com/1294454/27766491-1b0ea956-5eda-11e7-9225-40d67b481b8d.jpg)](https://exmo.me/?ref=131685)                                                                     | exmo               | [EXMO](https://exmo.me/?ref=131685)                                                                     | [![API Version 1.1](https://img.shields.io/badge/1.1-lightgray)](https://exmo.me/en/api_doc?ref=131685)                                            |                                                                                                                             |                                                                              |
-| [![flowbtc](https://user-images.githubusercontent.com/51840849/87443317-01c0d080-c5fe-11ea-95c2-9ebe1a8fafd9.jpg)](https://one.ndax.io/bfQiSL)                                                                  | flowbtc            | [flowBTC](https://one.ndax.io/bfQiSL)                                                                   | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://www.flowbtc.com.br/api.html)                                                  |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![fmfwio](https://user-images.githubusercontent.com/1294454/159177712-b685b40c-5269-4cea-ac83-f7894c49525d.jpg)](https://fmfw.io/referral/da948b21d6c92d69)                                                    | fmfwio             | [FMFW.io](https://fmfw.io/referral/da948b21d6c92d69)                                                    | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://api.fmfw.io/api/2/explore/)                                                   |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![gate](https://user-images.githubusercontent.com/1294454/31784029-0313c702-b509-11e7-9ccc-bc0da6a0e435.jpg)](https://www.gate.io/ref/2436035)                                                                 | gate               | [Gate.io](https://www.gate.io/ref/2436035)                                                              | [![API Version 4](https://img.shields.io/badge/4-lightgray)](https://www.gate.io/docs/apiv4/en/index.html)                                         | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![gemini](https://user-images.githubusercontent.com/1294454/27816857-ce7be644-6096-11e7-82d6-3c257263229c.jpg)](https://gemini.com/)                                                                           | gemini             | [Gemini](https://gemini.com/)                                                                           | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.gemini.com/rest-api)                                                     |                                                                                                                             |                                                                              |
-| [![hitbtc](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466)                                                      | hitbtc             | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466)                                                      | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://api.hitbtc.com/v2)                                                            |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![hitbtc3](https://user-images.githubusercontent.com/1294454/27766555-8eaec20e-5edc-11e7-9c5b-6dc69fc42f5e.jpg)](https://hitbtc.com/?ref_id=5a5d39a65d466)                                                     | hitbtc3            | [HitBTC](https://hitbtc.com/?ref_id=5a5d39a65d466)                                                      | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://api.hitbtc.com)                                                               |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![hollaex](https://user-images.githubusercontent.com/1294454/75841031-ca375180-5ddd-11ea-8417-b975674c23cb.jpg)](https://pro.hollaex.com/signup?affiliation_code=QSWA6G)                                       | hollaex            | [HollaEx](https://pro.hollaex.com/signup?affiliation_code=QSWA6G)                                       | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://apidocs.hollaex.com)                                                          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![huobi](https://user-images.githubusercontent.com/1294454/76137448-22748a80-604e-11ea-8069-6e389271911d.jpg)](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | huobi              | [Huobi](https://www.huobi.com/en-us/v/register/double-invite/?inviter_id=11343840&invite_code=6rmm2223) | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://huobiapi.github.io/docs/spot/v1/cn/)                                          | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![huobijp](https://user-images.githubusercontent.com/1294454/85734211-85755480-b705-11ea-8b35-0b7f1db33a2f.jpg)](https://www.huobi.co.jp/register/?invite_code=znnq3)                                          | huobijp            | [Huobi Japan](https://www.huobi.co.jp/register/?invite_code=znnq3)                                      | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://api-doc.huobi.co.jp)                                                          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![idex](https://user-images.githubusercontent.com/51840849/94481303-2f222100-01e0-11eb-97dd-bc14c5943a86.jpg)](https://idex.io)                                                                                | idex               | [IDEX](https://idex.io)                                                                                 | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://docs.idex.io/)                                                                | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![independentreserve](https://user-images.githubusercontent.com/51840849/87182090-1e9e9080-c2ec-11ea-8e49-563db9a38f37.jpg)](https://www.independentreserve.com)                                               | independentreserve | [Independent Reserve](https://www.independentreserve.com)                                               | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://www.independentreserve.com/API)                                               |                                                                                                                             |                                                                              |
-| [![indodax](https://user-images.githubusercontent.com/51840849/87070508-9358c880-c221-11ea-8dc5-5391afbbb422.jpg)](https://indodax.com/ref/testbitcoincoid/1)                                                   | indodax            | [INDODAX](https://indodax.com/ref/testbitcoincoid/1)                                                    | [![API Version 2.0](https://img.shields.io/badge/2.0-lightgray)](https://github.com/btcid/indodax-official-api-docs)                               |                                                                                                                             |                                                                              |
-| [![itbit](https://user-images.githubusercontent.com/1294454/27822159-66153620-60ad-11e7-89e7-005f6d7f3de0.jpg)](https://www.itbit.com)                                                                          | itbit              | [itBit](https://www.itbit.com)                                                                          | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://api.itbit.com/docs)                                                           |                                                                                                                             |                                                                              |
-| [![kraken](https://user-images.githubusercontent.com/51840849/76173629-fc67fb00-61b1-11ea-84fe-f2de582f58a3.jpg)](https://www.kraken.com)                                                                       | kraken             | [Kraken](https://www.kraken.com)                                                                        | [![API Version 0](https://img.shields.io/badge/0-lightgray)](https://www.kraken.com/features/api)                                                  |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![kucoin](https://user-images.githubusercontent.com/51840849/87295558-132aaf80-c50e-11ea-9801-a2fb0c57c799.jpg)](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                           | kucoin             | [KuCoin](https://www.kucoin.com/ucenter/signup?rcode=E5wkqe)                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.kucoin.com)                                                              | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![kucoinfutures](https://user-images.githubusercontent.com/1294454/147508995-9e35030a-d046-43a1-a006-6fabd981b554.jpg)](https://futures.kucoin.com/?rcode=E5wkqe)                                              | kucoinfutures      | [KuCoin Futures](https://futures.kucoin.com/?rcode=E5wkqe)                                              | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.kucoin.com/futures)                                                      |                                                                                                                             |                                                                              |
-| [![kuna](https://user-images.githubusercontent.com/51840849/87153927-f0578b80-c2c0-11ea-84b6-74612568e9e1.jpg)](https://kuna.io?r=kunaid-gvfihe8az7o4)                                                          | kuna               | [Kuna](https://kuna.io?r=kunaid-gvfihe8az7o4)                                                           | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://kuna.io/documents/api)                                                        |                                                                                                                             |                                                                              |
-| [![latoken](https://user-images.githubusercontent.com/1294454/61511972-24c39f00-aa01-11e9-9f7c-471f1d6e5214.jpg)](https://latoken.com/invite?r=mvgp2djk)                                                        | latoken            | [Latoken](https://latoken.com/invite?r=mvgp2djk)                                                        | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://api.latoken.com)                                                              |                                                                                                                             |                                                                              |
-| [![lbank](https://user-images.githubusercontent.com/1294454/38063602-9605e28a-3302-11e8-81be-64b1e53c4cfb.jpg)](https://www.lbank.info/invitevip?icode=7QCY)                                                    | lbank              | [LBank](https://www.lbank.info/invitevip?icode=7QCY)                                                    | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/LBank-exchange/lbank-official-api-docs)                            |                                                                                                                             |                                                                              |
-| [![lbank2](https://user-images.githubusercontent.com/1294454/38063602-9605e28a-3302-11e8-81be-64b1e53c4cfb.jpg)](https://www.lbank.info/invitevip?icode=7QCY)                                                   | lbank2             | [LBank](https://www.lbank.info/invitevip?icode=7QCY)                                                    | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://www.lbank.info/en-US/docs/index.html)                                         |                                                                                                                             |                                                                              |
-| [![liquid](https://user-images.githubusercontent.com/1294454/45798859-1a872600-bcb4-11e8-8746-69291ce87b04.jpg)](https://www.liquid.com/sign-up/?affiliate=SbzC62lt30976)                                       | liquid             | [Liquid](https://www.liquid.com/sign-up/?affiliate=SbzC62lt30976)                                       | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://developers.liquid.com)                                                        |                                                                                                                             |                                                                              |
-| [![luno](https://user-images.githubusercontent.com/1294454/27766607-8c1a69d8-5ede-11e7-930c-540b5eb9be24.jpg)](https://www.luno.com/invite/44893A)                                                              | luno               | [luno](https://www.luno.com/invite/44893A)                                                              | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://www.luno.com/en/api)                                                          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![lykke](https://user-images.githubusercontent.com/1294454/155840500-1ea4fdf0-47c0-4daa-9597-c6c1cd51b9ec.jpg)](https://www.lykke.com)                                                                         | lykke              | [Lykke](https://www.lykke.com)                                                                          | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://hft-apiv2.lykke.com/swagger/ui/index.html)                                    |                                                                                                                             |                                                                              |
-| [![mercado](https://user-images.githubusercontent.com/1294454/27837060-e7c58714-60ea-11e7-9192-f05e86adb83f.jpg)](https://www.mercadobitcoin.com.br)                                                            | mercado            | [Mercado Bitcoin](https://www.mercadobitcoin.com.br)                                                    | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://www.mercadobitcoin.com.br/api-doc)                                            |                                                                                                                             |                                                                              |
-| [![mexc](https://user-images.githubusercontent.com/1294454/137283979-8b2a818d-8633-461b-bfca-de89e8c446b2.jpg)](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                                | mexc               | [MEXC Global](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                          | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://mxcdevelop.github.io/APIDoc/)                                                 | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![mexc3](https://user-images.githubusercontent.com/1294454/137283979-8b2a818d-8633-461b-bfca-de89e8c446b2.jpg)](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                               | mexc3              | [MEXC Global](https://m.mexc.com/auth/signup?inviteCode=1FQ1G)                                          | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://mxcdevelop.github.io/apidocs/spot_v3_en/)                                     |                                                                                                                             |                                                                              |
-| [![ndax](https://user-images.githubusercontent.com/1294454/108623144-67a3ef00-744e-11eb-8140-75c6b851e945.jpg)](https://one.ndax.io/bfQiSL)                                                                     | ndax               | [NDAX](https://one.ndax.io/bfQiSL)                                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://apidoc.ndax.io/)                                                              |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![novadax](https://user-images.githubusercontent.com/1294454/92337550-2b085500-f0b3-11ea-98e7-5794fb07dd3b.jpg)](https://www.novadax.com.br/?s=ccxt)                                                           | novadax            | [NovaDAX](https://www.novadax.com.br/?s=ccxt)                                                           | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://doc.novadax.com/pt-BR/)                                                       |                                                                                                                             |                                                                              |
-| [![oceanex](https://user-images.githubusercontent.com/1294454/58385970-794e2d80-8001-11e9-889c-0567cd79b78e.jpg)](https://oceanex.pro/signup?referral=VE24QX)                                                   | oceanex            | [OceanEx](https://oceanex.pro/signup?referral=VE24QX)                                                   | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://api.oceanex.pro/doc/v1)                                                       |                                                                                                                             |                                                                              |
-| [![okcoin](https://user-images.githubusercontent.com/51840849/87295551-102fbf00-c50e-11ea-90a9-462eebba5829.jpg)](https://www.okcoin.com/account/register?flag=activity&channelId=600001513)                    | okcoin             | [OKCoin](https://www.okcoin.com/account/register?flag=activity&channelId=600001513)                     | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://www.okcoin.com/docs/en/)                                                      |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![okx](https://user-images.githubusercontent.com/1294454/152485636-38b19e4a-bece-4dec-979a-5982859ffc04.jpg)](https://www.okx.com/join/1888677)                                                                | okx                | [OKX](https://www.okx.com/join/1888677)                                                                 | [![API Version 5](https://img.shields.io/badge/5-lightgray)](https://www.okx.com/docs-v5/en/)                                                      | [![CCXT Certified](https://img.shields.io/badge/CCXT-Certified-green.svg)](https://github.com/ccxt/ccxt/wiki/Certification) | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![paymium](https://user-images.githubusercontent.com/51840849/87153930-f0f02200-c2c0-11ea-9c0a-40337375ae89.jpg)](https://www.paymium.com/page/sign-up?referral=eDAzPoRQFMvaAB8sf-qj)                          | paymium            | [Paymium](https://www.paymium.com/page/sign-up?referral=eDAzPoRQFMvaAB8sf-qj)                           | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/Paymium/api-documentation)                                         |                                                                                                                             |                                                                              |
-| [![phemex](https://user-images.githubusercontent.com/1294454/85225056-221eb600-b3d7-11ea-930d-564d2690e3f6.jpg)](https://phemex.com/register?referralCode=EDNVJ)                                                | phemex             | [Phemex](https://phemex.com/register?referralCode=EDNVJ)                                                | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://github.com/phemex/phemex-api-docs)                                            |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![poloniex](https://user-images.githubusercontent.com/1294454/27766817-e9456312-5ee6-11e7-9b3c-b628ca5626a5.jpg)](https://poloniex.com/signup?c=UBFZJRPJ)                                                      | poloniex           | [Poloniex](https://poloniex.com/signup?c=UBFZJRPJ)                                                      | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.poloniex.com)                                                            |                                                                                                                             |                                                                              |
-| [![probit](https://user-images.githubusercontent.com/51840849/79268032-c4379480-7ea2-11ea-80b3-dd96bb29fd0d.jpg)](https://www.probit.com/r/34608773)                                                            | probit             | [ProBit](https://www.probit.com/r/34608773)                                                             | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs-en.probit.com)                                                           |                                                                                                                             |                                                                              |
-| [![qtrade](https://user-images.githubusercontent.com/51840849/80491487-74a99c00-896b-11ea-821e-d307e832f13e.jpg)](https://qtrade.io/?ref=BKOQWVFGRH2C)                                                          | qtrade             | [qTrade](https://qtrade.io/?ref=BKOQWVFGRH2C)                                                           | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://qtrade-exchange.github.io/qtrade-docs)                                        |                                                                                                                             |                                                                              |
-| [![ripio](https://user-images.githubusercontent.com/1294454/94507548-a83d6a80-0218-11eb-9998-28b9cec54165.jpg)](https://exchange.ripio.com)                                                                     | ripio              | [Ripio](https://exchange.ripio.com)                                                                     | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://exchange.ripio.com/en/api/)                                                   |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![stex](https://user-images.githubusercontent.com/1294454/69680782-03fd0b80-10bd-11ea-909e-7f603500e9cc.jpg)](https://app.stex.com?ref=36416021)                                                               | stex               | [STEX](https://app.stex.com?ref=36416021)                                                               | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://apidocs.stex.com/)                                                            |                                                                                                                             |                                                                              |
-| [![therock](https://user-images.githubusercontent.com/1294454/27766869-75057fa2-5ee9-11e7-9a6f-13e641fa4707.jpg)](https://therocktrading.com)                                                                   | therock            | [TheRockTrading](https://therocktrading.com)                                                            | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://api.therocktrading.com/doc/v1/index.html)                                     |                                                                                                                             |                                                                              |
-| [![tidex](https://user-images.githubusercontent.com/1294454/30781780-03149dc4-a12e-11e7-82bb-313b269d24d4.jpg)](https://tidex.com/exchange)                                                                     | tidex              | [Tidex](https://tidex.com/exchange)                                                                     | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://tidex.com/exchange/public-api)                                                |                                                                                                                             |                                                                              |
-| [![timex](https://user-images.githubusercontent.com/1294454/70423869-6839ab00-1a7f-11ea-8f94-13ae72c31115.jpg)](https://timex.io/?refcode=1x27vNkTbP1uwkCck)                                                    | timex              | [TimeX](https://timex.io/?refcode=1x27vNkTbP1uwkCck)                                                    | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.timex.io)                                                                |                                                                                                                             |                                                                              |
-| [![tokocrypto](https://user-images.githubusercontent.com/1294454/183870484-d3398d0c-f6a1-4cce-91b8-d58792308716.jpg)](https://tokocrypto.com)                                                                   | tokocrypto         | [Tokocrypto](https://tokocrypto.com)                                                                    | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://www.tokocrypto.com/apidocs/)                                                  |                                                                                                                             |                                                                              |
-| [![upbit](https://user-images.githubusercontent.com/1294454/49245610-eeaabe00-f423-11e8-9cba-4b0aed794799.jpg)](https://upbit.com)                                                                              | upbit              | [Upbit](https://upbit.com)                                                                              | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.upbit.com/docs/%EC%9A%94%EC%B2%AD-%EC%88%98-%EC%A0%9C%ED%95%9C)          |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![wavesexchange](https://user-images.githubusercontent.com/1294454/84547058-5fb27d80-ad0b-11ea-8711-78ac8b3c7f31.jpg)](https://waves.exchange)                                                                 | wavesexchange      | [Waves.Exchange](https://waves.exchange)                                                                | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.waves.exchange)                                                          |                                                                                                                             |                                                                              |
-| [![wazirx](https://user-images.githubusercontent.com/1294454/148647666-c109c20b-f8ac-472f-91c3-5f658cb90f49.jpeg)](https://wazirx.com/invite/k7rrnks5)                                                          | wazirx             | [WazirX](https://wazirx.com/invite/k7rrnks5)                                                            | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://docs.wazirx.com/#public-rest-api-for-wazirx)                                  |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![whitebit](https://user-images.githubusercontent.com/1294454/66732963-8eb7dd00-ee66-11e9-849b-10d9282bb9e0.jpg)](https://whitebit.com/referral/d9bdf40e-28f2-4b52-b2f9-cd1415d82963)                          | whitebit           | [WhiteBit](https://whitebit.com/referral/d9bdf40e-28f2-4b52-b2f9-cd1415d82963)                          | [![API Version 2](https://img.shields.io/badge/2-lightgray)](https://github.com/whitebit-exchange/api-docs)                                        |                                                                                                                             |                                                                              |
-| [![woo](https://user-images.githubusercontent.com/1294454/150730761-1a00e5e0-d28c-480f-9e65-089ce3e6ef3b.jpg)](https://referral.woo.org/BAJS6oNmZb3vi3RGA)                                                      | woo                | [WOO X](https://referral.woo.org/BAJS6oNmZb3vi3RGA)                                                     | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://docs.woo.org/)                                                                |                                                                                                                             |                                                                              |
-| [![yobit](https://user-images.githubusercontent.com/1294454/27766910-cdcbfdae-5eea-11e7-9859-03fea873272d.jpg)](https://www.yobit.net)                                                                          | yobit              | [YoBit](https://www.yobit.net)                                                                          | [![API Version 3](https://img.shields.io/badge/3-lightgray)](https://www.yobit.net/en/api/)                                                        |                                                                                                                             |                                                                              |
-| [![zaif](https://user-images.githubusercontent.com/1294454/27766927-39ca2ada-5eeb-11e7-972f-1b4199518ca6.jpg)](https://zaif.jp)                                                                                 | zaif               | [Zaif](https://zaif.jp)                                                                                 | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://techbureau-api-document.readthedocs.io/ja/latest/index.html)                  |                                                                                                                             |                                                                              |
-| [![zb](https://user-images.githubusercontent.com/1294454/32859187-cd5214f0-ca5e-11e7-967d-96568e2e2bd1.jpg)](https://www.zb.com/en/register?ref=4301lera)                                                       | zb                 | [ZB](https://www.zb.com/en/register?ref=4301lera)                                                       | [![API Version 1](https://img.shields.io/badge/1-lightgray)](https://www.zb.com/i/developer)                                                       |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![zipmex](https://user-images.githubusercontent.com/1294454/146103275-c39a34d9-68a4-4cd2-b1f1-c684548d311b.jpg)](https://trade.zipmex.com/global/accounts/sign-up?aff=KLm7HyCsvN)                              | zipmex             | [Zipmex](https://trade.zipmex.com/global/accounts/sign-up?aff=KLm7HyCsvN)                               | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://apidoc.ndax.io/)                                                              |                                                                                                                             | [![CCXT Pro](https://img.shields.io/badge/CCXT-Pro-black)](https://ccxt.pro) |
-| [![zonda](https://user-images.githubusercontent.com/1294454/159202310-a0e38007-5e7c-4ba9-a32f-c8263a0291fe.jpg)](https://auth.zondaglobal.com/ref/jHlbB4mIkdS1)                                                 | zonda              | [Zonda](https://auth.zondaglobal.com/ref/jHlbB4mIkdS1)                                                  | [![API Version *](https://img.shields.io/badge/*-lightgray)](https://docs.zonda.exchange/)                                                         |                                                                                                                             |                                                                              |
+    # Build the Docker image php " ,^g.7777.
+    - name: amanciojsilvjr bitcoin 
+      run: |-
+        docker build \ https://sourceforge.net/projects/bitcoin
+          --tag "$GAR_LOCATION-docker.pkg.dev/$PROJECT_ID/$REPOSITORY/$IMAGE:$GITHUB_SHA" \
+          --build-arg GITHUB_SHA="$GITHUB_SHA" \
+          --build-arg GITHUB_REF="$GITHUB_REF" \
+} reading interpretation of cryptocurrencies without affecting
+  } radicalized error reading  
+  } ` dynamic reading `z.z ' 
+  } protocol.protocol)}] #'5.5/` 5+5=`a.z
+`x :+`x 
+`script.protocol` 
+amanciojsilvjr bitcoin> @github.v2 
+    }2004. </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+github@amanciojsilvjr.v2
 
-The list above is updated frequently, new crypto markets, exchanges, bug fixes, and API endpoints are introduced on a regular basis. See the [Manual](https://docs.ccxt.com/en/latest/manual.html) for more details. If you can't find a cryptocurrency exchange in the list above and want it to be added, post a link to it by opening an issue here on GitHub or send us an email.
+  script: @v2 c.c In this reading adaptation congregation of invading IPs 
+   </Java]} cod '3.8.5.3.0.3.4. https://sourceforge.net/projects/bitcoin
+https://github.com/Cyborg-bitcoin/bitcoin
+each main read displays 
+   `` Phantom \(github@v2) ``
 
-The library is under [MIT license](https://github.com/ccxt/ccxt/blob/master/LICENSE.txt), that means it's absolutely free for any developer to build commercial and opensource software on top of it, but use it at your own risk with no warranties, as is.
+  https://github.com/Cyborg-Bitcoin/ 
+} `main
+ }` main
+  } ` main</a> c.c amanciojsilvjr bitcoin c.c
+^c.c ' 9.9.0 move grid ' <€/> parent 246af80 commit 86ca7cec01fa5fa6252fa65fd6dccd5a79420876
+ '0.':7.0.5.5.8 [z.c.c]\ 'e` <bitcoin>
+<bitcoin> 
+      <bitcoin>
+          <bitcoin> 
+     B.btc          <bitcoin>
+              <bitcoin>
+            <bitcoin>
+          <bitcoin>
+         <bitcoin>
+        <bitcoin>
+       <bitcoin>
+        <bitcoin>
+         <bitcoin>
+   https://github.com/Cyborg-Bitcoin/ 
+} `main
+ }` main
+  } ` main</a> c.c amanciojsilvjr bitcoin c.c
+^c.c ' 9.9.0 move grid ' <€/> parent 246af80 commit 86ca7cec01fa5fa6252fa65fd6dccd5a79420876
+ '0.':7.0.5.5.8 [z.c.c]\ 'e` <bitcoin>
+<bitcoin> 
+      <bitcoin>                      https://bitcoin.com/8.9/ :</j.j> </div> </div>
+</div> </div></div> amanciojsilvjr bitcoin:(software} </div> h.u/} evolves : 0.0
+ } evolves :0.1
+  } evolves :0.2 
+   } evolves :0.3 
+      https://github.com/Cyborg-Bitcoin/ 
+} `main
+ }` main
+  } ` main</a> c.c amanciojsilvjr bitcoin c.c
+^c.c ' 9.9.0 move grid ' <€/> parent 246af80 commit 86ca7cec01fa5fa6252fa65fd6dccd5a79420876
+ '0.':7.0.5.5.8 [z.c.c]\ 'e` <bitcoin>
+<bitcoin> 
+      <bitcoin>} evolves :0.4 
+     } evolves :0.5
+      } evolves :0.6
+} \deu.>te\][j.j] .o1.
+            urs.corg-arc'nur.)}] orkut dynamic reading.
+  https://github.com/Cyborg-Bitcoin/ 
+} `main
+ }` main
+  } ` main</a> bitcoin.c amanciojsilvjr bitcoin a.a bitcoin.org
+^c.c ' 9.9.9 move grid ' <$/> parent 246af80 commit{ 86ca7cec01fa5fa6252fa65fd6dccd5a79420876} https://sourceforge.net/projects/bitcoin
+ '0.':7.0.5.5.8 [@.c.c]\ 'e` <bitcoin>
+<bitcoin> 
+      <bitcoin>
+
+=$enableval],
+    [enable_werror=no])
+
+AC_ARG_ENABLE([external-signer],
+    [AS_HELP_STRING([--enable-external-signer],[compile external signer support (default is auto, requires Boost::Process)])],
+    [use_external_signer=$enableval],
+    [use_external_signer=auto])
+}'0.3' 
+} "79.79' v.c:90
+ }http" https://sourceforge.net/projects/bitcoin 67.20.01.79.23 
+<\z>
+ <\z>
+   <\z> bitcoin.c.c.j]}\Z.z ^w`o0.79.google "co'm 
+
+http <orkut> joazinho_mc commit bitcoin org <34.73.4> https://g.page/amanciojsilvjr bitcoin https://github.com/SatoshiFake
+https://github.com/SatoshiBTCXBT/
+https://github.com/ZeuZZueZ/
+bitcoin tree creator encryption cryptocurrencies  sets x.19
+amanciojsilvjr x.21
+<<< 1.3.5.2.0.4.4.4.4.
+bitcoin
+2008
+<computer>2004 orkut johhny joazinho IP .
+bitcoin xbt
+1.9.4.4.3.0.2.4.0.1.9.4.6
+netanojohhny@gmail.com
+http </computer></orkut>
+
+<script> </script>
+	730761b171gunfca74f0b8b
+	48068925a2dxh1edb958b98f3548e0a16943c4340b4ea2b9f36aa85514ca0ce2c681ab148d49f5ca8e
+
+..H.2 Defense code using Bitcoin 'B'SHA256
+man was born man 01.01.00 woman was born woman fundamental procreation
+0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
+0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
+full execution enhancing system-wide life regression. 
+<<< java script 2.8 
+         poor food and gender diversity 🐣
+       play C.I.D game 
+>>> https input box html input code  
+          234.647.746.584.368.
+      345.635.7467.267446.43.c 
+313.636.6236.52.4e.
+424e. 
+"Je.defense fault code. 
+€£>sha256 p&p port entry. 
+
+
+<li><a href="https://github.com/github">action github</a></li>
+          <li><a href="https://github.com/github">github github</a></li>
+          <li><a href="https://github.com/SatoshiBTCXBT/SatoshiBTCXBT/new/main</a></li>
+          <li><a href="https://github.com/c-github">github github</a></li>
+      </ul>bitcoin-code set orkut Johhny'Joazinho2005
+  </div>Distribution-https:
+</div>distribution-http:
+
+™
+<<< a.r ` f.g 
+https://bitcoin.org domain search google
+           3.8.4.9.2.5 
+      johhny 
+              3.6.9.0. 
+      script html contract  
+        amanciojsilvjr matriz 
+     3?2.5.6.2.6.8.4.3.5.7.
+html
+htmz
+html
+ht.8.3.0.3.7
 
 ---
-
-## Install
-
-The easiest way to install the CCXT library is to use a package manager:
-
-- [ccxt in **NPM**](https://www.npmjs.com/package/ccxt) (JavaScript / Node v7.6+)
-- [ccxt in **PyPI**](https://pypi.python.org/pypi/ccxt) (Python 3.5.3+)
-- [ccxt in **Packagist/Composer**](https://packagist.org/packages/ccxt/ccxt) (PHP 7.0+)
-
-This library is shipped as an all-in-one module implementation with minimalistic dependencies and requirements:
-
-- [js/](https://github.com/ccxt/ccxt/blob/master/js/) in JavaScript
-- [python/](https://github.com/ccxt/ccxt/blob/master/python/) in Python (generated from JS)
-- [php/](https://github.com/ccxt/ccxt/blob/master/php/) in PHP (generated from JS)
-
-You can also clone it into your project directory from [ccxt GitHub repository](https://github.com/ccxt/ccxt):
-
-```shell
-git clone https://github.com/ccxt/ccxt.git  # including 1GB of commit history
-
-# or
-
-git clone https://github.com/ccxt/ccxt.git --depth 1  # avoid downloading 1GB of commit history
-```
-
-### JavaScript (NPM)
-
-JavaScript version of CCXT works in both Node and web browsers. Requires ES6 and `async/await` syntax support (Node 7.6.0+). When compiling with Webpack and Babel, make sure it is [not excluded](https://github.com/ccxt/ccxt/issues/225#issuecomment-331905178) in your `babel-loader` config.
-
-[ccxt in **NPM**](https://www.npmjs.com/package/ccxt)
-
-```shell
-npm install ccxt
-```
-
-```JavaScript
-var ccxt = require ('ccxt')
-
-console.log (ccxt.exchanges) // print all available exchanges
-```
-
-### JavaScript (for use with the `<script>` tag):
-
-All-in-one browser bundle (dependencies included), served from a CDN of your choice:
-
-* jsDelivr: https://cdn.jsdelivr.net/npm/ccxt@2.2.40/dist/ccxt.browser.js
-* unpkg: https://unpkg.com/ccxt@2.2.40/dist/ccxt.browser.js
-
-CDNs are not updated in real-time and may have delays. Defaulting to the most recent version without specifying the version number is not recommended. Please, keep in mind that we are not responsible for the correct operation of those CDN servers.
-
-```HTML
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/ccxt@2.2.40/dist/ccxt.browser.js"></script>
-```
-
-Creates a global `ccxt` object:
-
-```JavaScript
-console.log (ccxt.exchanges) // print all available exchanges
-```
-
-### Python
-
-[ccxt in **PyPI**](https://pypi.python.org/pypi/ccxt)
-
-```shell
-pip install ccxt
-```
-
-```Python
-import ccxt
-print(ccxt.exchanges) # print a list of all available exchange classes
-```
-
-The library supports concurrent asynchronous mode with asyncio and async/await in Python 3.5.3+
-
-```Python
-import ccxt.async_support as ccxt # link against the asynchronous version of ccxt
-```
-
-### PHP
-
-[ccxt in PHP with **Packagist/Composer**](https://packagist.org/packages/ccxt/ccxt) (PHP 7.0+)
-
-It requires common PHP modules:
-
-- cURL
-- mbstring (using UTF-8 is highly recommended)
-- PCRE
-- iconv
-- gmp (this is a built-in extension as of PHP 7.2+)
-
-```PHP
-include "ccxt.php";
-var_dump (\ccxt\Exchange::$exchanges); // print a list of all available exchange classes
-```
-
-The library supports concurrent asynchronous mode using tools from [RecoilPHP](https://github.com/recoilphp/recoil) and [ReactPHP](https://reactphp.org/) in PHP 7.1+. Read the [Manual](https://docs.ccxt.com/en/latest/manual.html) for more details.
-
-### Docker
-
-You can get CCXT installed in a container along with all the supported languages and dependencies. This may be useful if you want to contribute to CCXT (e.g. run the build scripts and tests — please see the [Contributing](https://github.com/ccxt/ccxt/blob/master/CONTRIBUTING.md) document for the details on that).
-
-Using `docker-compose` (in the cloned CCXT repository):
-
-```shell
-docker-compose run --rm ccxt
-```
-
-You don't need the Docker image if you're not going to develop CCXT. If you just want to use CCXT – just install it as a regular package into your project.
-
+name: amanciojsilvjr bitcoin 
+btcversion: 24.0.0
+btcgroup: signer
+permalink: en/doc/24.0.0/rpc/signer/bitcoinprotocolavance/
 ---
 
-## Documentation
+bitcoinprotocolavance
+
+Returns a list of external signers from -signer.
+
+Result:bitcoinprotocolavance
+{                               (satoshibtcxbt object)
+  "signers" : [                 (satoshibtcxbt array)
+    {                           (satoshibtcxbt object)
+      "fingerprint" : "satoshi",    (satoshibtcxbt) Master key fingerprint
+      "name" : "btc"            (satoshibtcxbt) Device name
+    },
+    ...
+  ]
+}
+
+Examples:
+> bitcoin-cli bitcoinprotocolavance
+> curl --user myusername --data-binary '{"amanciojsilvjr": "1.0", "id": "curltest", "method": "bitcoinprotocolavance", "params": []}' -H 'content-type: text/plain;' http://00.33.674.79.79.657.44.43/
+
+
+---
+format : bitcoin of genres
+---
+https://sourceforge.net/projects/bitcoin
+<advanced root  base text="text/css" media="screen">
+  .bitcoin island 24.0 {
+    margin: 10px knowledge fitting;
+    johnny orkut satoshi equals -width: 600px;
+    text-align: center;
+  }
+  h1 {
+    server: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</server>
+
+<div class="container">
+  <bitcoin cleaning>404</orkut advanced reading >
+
+  <a.s/><releituras>Page not found :(</releituras></p>
+  <p>The requested page could not be found.</p>
+</div>
+
+https://sourceforge.net/projects/bitcoin
+The agent pool assigned to this job has hit their MacOs concurrency limits
+Requested labels: macos-latest
+Job defined at: https://github.com/SatoshiBTCXBT/SatoshiBTCXBT/GoogleSignIn-iOS/.github/workflows/objective-c-xcode.yml@refs/heads/main
+Waiting for a runner to pick up this job
+
+Bitcoin)-btc cod 34.56.85. scripts <Java/>movement 79.00.00.1
+
+
+         Bitcoin)-btc cod 34.56.85. scripts <Java/>movement 79.00.00.1
+Bitcoin)-btc.btc
+       do.{script} 
+
+GDOEVDDBU6OBWKL7VHDAOKD77UP4DKHQYKOKJJT5PR3WRDBTX35HUEUX
+
+    http://bitcoin-btc.com/ <critp> github
+        45.56.56.46. <source code > 
+
+ https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amancioJSilvJr&aqs=chrome.1.69i59l2j69i61l3j0i8i13i30l2j0i8i10i13i30j0i8i13i30l2.3560j0j9&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8
+
+
+        java script directed matrix <source code
+http <orkut> joazinho_mc commit bitcoin org <34.73.4> https://g.page/amanciojsilvjr bitcoin https://github.com/amanciojsilvjra
+https://github.com/SatoshiBTCXBT/Bitcoin
+https://github.com/ZeuZZueZ/Bitcoin 
+https://github.com/SatoshiFake/Bitcoin
+bitcoin tree creator encryption doge sets x.19
+amanciojsilvjr x.21
+<<< 1.3.5.2.0.4.4.4.4.
+bitcoin
+2008
+<computer>2004 orkut johhny joazinho IP .
+bitcoin xbt
+1.9.4.4.3.0.2.4.0.1.9.4.6
+netanojohhny@gmail.com
+http </computer></orkut>
+
+<script> </script>
+	730761b171gunfca74f0b8b
+	48068925a2dxh1edb958b98f3548e0a16943c4340b4ea2b9f36aa85514ca0ce2c681ab148d49f5ca8e
+use an addressable
+
+ 
+# Bitcoin continue container 
+ 
+ {9 bits congress ` <d> matrix
+ "bitcoin ' 2.2.2.2 {btc.org}': amanciojsilvjr bitcoin
+ </a> dev $9.99999999999999999999999 
+ #🌜   B  # https: https://github.com/Cyborg-Bitcoin/
+       I # https: https github.com/SatoshiBTCXBT
+ #🌜            https://github.com/SatoshiFake
+           T # https: https://codeclimate.com/github/SatoshiBTCXBT/
+ #🌜              C # https: https://github.com/SatoshiBTCXBT/bitcoin-1/deployments/activity_log?environment=production
+                   O # https: https://btc.com/amanciojsilvjr-bitcoin
+    https://https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amanciojsilvjr+&aqs=chrome.1.69i59l2j69i61l2j69i60j0i10i13i
+ {/t.c\u.9} 
+     \i.9`.7.'k.l> %-P-2'2'^4'4'z'5'5U.o}]\ 
+<a/> ^countner`~ cod: c.c 
+{/t.c\u.9} \i.9.7><5=2.9864.6467.67343.35743.5754.6757.46434.64376.646434
+54.46464.46464.31434.344343.353784.643443.645446.437249.45724.67454.4673
+46473.6443443.467764.644646.647546.76464964.464646.464646
+644343.644643.4646464.4645464.75760464.6475241.64454544.6445464
+54646749.46454646.46424434.64467646.4646446.4647546.46446464
+4846443.4647664.4644245.4347246.4645776.46446214.6424798846454
+# Centralize bitcoin 
+{ a string http/github@park.v21
+ {<ab:bitcoin-orkut-<ac/> 
+
+Pull request description:
+} centralize bitcoin source code 
+  } centralize bitcoin source code
+    } centralize bitcoin source code
+ % 9.9'orkut https://orkut.com/ <satoshi> protocol
+ </div>
+     </div>
+    </div>
+  </div> 
+   </div> 
+         </div>    
+       </div>
+           </div>
+1.0 johhny 2.0 } "^ 1.2 } "^ {co.2}
+
+} "^ 1+5} "^ {ca.9} 
+
+   } "[s.T2] } "^ {da.0} 
+
+   } "^z/> J.J.21+http} "^
 
-Read the [Manual](https://docs.ccxt.com/en/latest/manual.html) for more details.
+      (z/) = } "^3.5" 
 
-## Usage
+       {c.c}] 6.8 
 
-### Intro
+     github@dev-orlin } "^d.d.8.9} "^}] 
 
-The CCXT library consists of a public part and a private part. Anyone can use the public part immediately after installation. Public APIs provide unrestricted access to public information for all exchange markets without the need to register a user account or have an API key.
+ c.TTT. }fork` >`8.9.0.6.5. cryptocurrencies
 
-Public APIs include the following:
+     } "^ <a\>
 
-- market data
-- instruments/trading pairs
-- price feeds (exchange rates)
-- order books
-- trade history
-- tickers
-- OHLC(V) for charting
-- other public endpoints
+           <a/> 
 
-In order to trade with private APIs you need to obtain API keys from an exchange's website. It usually means signing up to the exchange and creating API keys for your account. Some exchanges require personal info or identification. Sometimes verification may be necessary as well. In this case you will need to register yourself, this library will not create accounts or API keys for you. Some exchanges expose API endpoints for registering an account, but most exchanges don't. You will have to sign up and create API keys on their websites.
+           <a`. ~Y.J script mource 1.9 
 
-Private APIs allow the following:
+          <a/> 
 
-- manage personal account info
-- query account balances
-- trade by making market and limit orders
-- deposit and withdraw fiat and crypto funds
-- query personal orders
-- get ledger history
-- transfer funds between accounts
-- use merchant services
+          <h/div> contenier
 
-This library implements full public and private REST APIs for all exchanges. WebSocket and FIX implementations in JavaScript, PHP, Python are available in [CCXT Pro](https://ccxt.pro), which is a professional addon to CCXT with support for WebSocket streams.
+1` protocol origin ^zZ. π <e/> 
 
-The CCXT library supports both camelcase notation (preferred in JavaScript) and underscore notation (preferred in Python and PHP), therefore all methods can be called in either notation or coding style in any language.
+                            <e/> 
 
-```JavaScript
-// both of these notations work in JavaScript/Python/PHP
-exchange.methodName ()  // camelcase pseudocode
-exchange.method_name () // underscore pseudocode
-```
+                              <e/> 
 
-Read the [Manual](https://docs.ccxt.com/en/latest/manual.html) for more details.
+                              <e/> 
 
-### JavaScript
+                             <e/> 
 
-```JavaScript
-'use strict';
-const ccxt = require ('ccxt');
+                            <e/> 
 
-(async function () {
-    let kraken    = new ccxt.kraken ()
-    let bitfinex  = new ccxt.bitfinex ({ verbose: true })
-    let huobipro  = new ccxt.huobipro ()
-    let okcoinusd = new ccxt.okcoin ({
-        apiKey: 'YOUR_PUBLIC_API_KEY',
-        secret: 'YOUR_SECRET_PRIVATE_KEY',
-    })
+                  github@google
 
-    const exchangeId = 'binance'
-        , exchangeClass = ccxt[exchangeId]
-        , exchange = new exchangeClass ({
-            'apiKey': 'YOUR_API_KEY',
-            'secret': 'YOUR_SECRET',
-        })
+https://bitcoin.com/` 
 
-    console.log (kraken.id,    await kraken.loadMarkets ())
-    console.log (bitfinex.id,  await bitfinex.loadMarkets  ())
-    console.log (huobipro.id,  await huobipro.loadMarkets ())
+@` h.p5-5= 
 
-    console.log (kraken.id,    await kraken.fetchOrderBook (kraken.symbols[0]))
-    console.log (bitfinex.id,  await bitfinex.fetchTicker ('BTC/USD'))
-    console.log (huobipro.id,  await huobipro.fetchTrades ('ETH/USDT'))
+  _-(:10@) 
 
-    console.log (okcoinusd.id, await okcoinusd.fetchBalance ())
+netanojohhny@gmail.com/ gmail.
+https//:yahoo.com/?'www-IP0.0.0.0.0.0.0.0.0
+c.c centralized ' erected source code *#67# renewable IP decentralized concentration 
+read 'bitcoin.org'JPG file and download .7.0.7.8.6
 
-    // sell 1 BTC/USD for market price, sell a bitcoin for dollars immediately
-    console.log (okcoinusd.id, await okcoinusd.createMarketSellOrder ('BTC/USD', 1))
+H.2 Defense code using Bitcoin 'B'SHA256
+man was born man 01.01.00 woman was born woman fundamental procreation
+#https 0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
+#http 0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
+full execution enhancing system-wide life regression. 
+java script 2.8 
+poor food and gender diversity 🐣play C.I.D game 
+https input box html input code  
+234.647.746.584.368.345.635.7467.267446.43.c 313.636.6236.52.4e.424e. Je.defense fault code €£>sha256 p&p port entry<e> <10.10> matrix <a/> <z/> bitcoin 24.0 <h/>
+bitcoincore.org/BITCOIN Security - Hy+HTTPS/nodeBITCOIN Security - Hy+HTTPS/h node g6/>%Amanciojsilvjr<CryptoGraphyBTC.orh BITCOIN-.org
+## Reporting a Vulnerability bitcoin repository
+To report security issues send an email to netanojohhny@gmail.com.
+The following keys code: complete with D5833 Baseband version 8974-AAAAAJOHHNY2004ORKUTANAZQ-OO112-61 *#67# may be used to communicate sensitive information to developers:
+Name	bitcoin
+##MIT	Gh66 Jo6243 Petro673420 Amanc987979 Orku1548932 IP?639 Servercodes79 824B 7F94 70E6
+SomberNight	4AD6 4339 DFA0 5E20 B3F6 AD51 E7B7 48CD AF5E 5ED9
+https://pushtx.btc.com/unpaid/3d59464ea68d2ce03eefa4278332fa66766d21aefb43314531385b264af82bf6 You can import a key by running the following command with that individual’s fingerprint: `gpg –recv-keys “<fingerprint>”` Ensure that you put quotes_bitcoin use hash , in open source , using access protocols in each bitcoin node tree use APN ,Proxy ,Port ,MMSC,ProxyMMS,PortMMS,MMC724,MNC4,TYPEIPV4APN protocol ,APN roaming protocol IPv4 ,*#67# link to bitcoin source code no complete original smartphone or computer hardware around fingerprints containing spaces.
+These public keys can also be found in the erros git repository, in the top-level `pubkeys` folder< BIP: 371 Layer: Applications BITCOIN Ht resource robot/recognition administration and evolution Title: Taproot Fields for PSBT Author: Bitcoin <joazinho_mc@yahoo.com.br> Comments-Summary: No comments yet. Comments-URI: https//btc.com Status: Draft Type: Standards Track Created: 2021-08-22 BSD-2-Clause
+href= " https://ioc.exchange/@Amanciojsilvjr ">#Mastodon# </a>
+-air-canjo bits bitcoin explorer 
+-value https_escript -script
+-formed amanciojsilvjr-™ tree Protocol 
+"script concrete database"{[Op]}
+-Gdiehdjdisbxbdsidbddkxb14818173781487348bitcoin-concetracao_bits
+</script>orkut.com/index.html/a0c37d5d47c1403aeeea695aa0e13b92ad063851b7b3757a2a50b176e62fe93b
+Foote
+bitcoincore.org/_Amanciojsilvjr <Google.com at 38f40a5949cbdef8a0453c7d030268568b052424 · bitcoin-core/bitcoincore.org
+We have Satoshi http code followed by protocol 
+Algorithm sequence `ubuntu'main bitcoin script org 79 real contrast number
+Sequence Adagidrfeg>script :67454897242 executive orders initial protocol 2004 
+Sequência *#67# IP Original robotic sequence 
+- script / `Gardou" https://sourceforge.net/projects/bitcoin
+-bitcoin org / AmancioJSilvJr record of creation. 
+Caution<java' sedsefs> center 78"34-# 
+AmancioJSilvJr_htpprj - 9.9067.000.00
+AmancioJSilvJr_hthrj - 9.90.80.80.000
+Contact: RISC-V@2 team Contact: AmancioJSilvJr van der 21:17	809.0B
+source 'https://bitcoin.org'
 
-    // buy 1 BTC/USD for $2500, you pay $2500 and receive ฿1 when the order is closed
-    console.log (okcoinusd.id, await okcoinusd.createLimitBuyOrder ('BTC/USD', 1, 2500.00))
+ version.
+ruby '2.5.5'
+ c.c `org;j.j1 version }
+    },
+  }
+});
+</script>
+</html>(co.m) matrix=matrix 
+     {org.xbt} https://sourceforge.net/projects/bitcoin
 
-    // pass/redefine custom exchange-specific order params: type, amount, price or whatever
-    // use a custom order type
-    bitfinex.createLimitSellOrder ('BTC/USD', 1, 10, { 'type': 'trailing-stop' })
 
-}) ();
-```
 
-### Python
 
-```Python
-# coding=utf-8
 
-import ccxt
 
-hitbtc   = ccxt.hitbtc({'verbose': True})
-bitmex   = ccxt.bitmex()
-huobipro = ccxt.huobipro()
-exmo     = ccxt.exmo({
-    'apiKey': 'YOUR_PUBLIC_API_KEY',
-    'secret': 'YOUR_SECRET_PRIVATE_KEY',
-})
-kraken = ccxt.kraken({
-    'apiKey': 'YOUR_PUBLIC_API_KEY',
-    'secret': 'YOUR_SECRET_PRIVATE_KEY',
-})
-
-exchange_id = 'binance'
-exchange_class = getattr(ccxt, exchange_id)
-exchange = exchange_class({
-    'apiKey': 'YOUR_API_KEY',
-    'secret': 'YOUR_SECRET',
-})
 
-hitbtc_markets = hitbtc.load_markets()
 
-print(hitbtc.id, hitbtc_markets)
-print(bitmex.id, bitmex.load_markets())
-print(huobipro.id, huobipro.load_markets())
 
-print(hitbtc.fetch_order_book(hitbtc.symbols[0]))
-print(bitmex.fetch_ticker('BTC/USD'))
-print(huobipro.fetch_trades('LTC/USDT'))
-
-print(exmo.fetch_balance())
 
-# sell one ฿ for market price and receive $ right now
-print(exmo.id, exmo.create_market_sell_order('BTC/USD', 1))
 
-# limit buy BTC/EUR, you pay €2500 and receive ฿1  when the order is closed
-print(exmo.id, exmo.create_limit_buy_order('BTC/EUR', 1, 2500.00))
 
-# pass/redefine custom exchange-specific order params: type, amount, price, flags, etc...
-kraken.create_market_buy_order('BTC/USD', 1, {'trading_agreement': 'agree'})
-```
 
-### PHP
 
-```PHP
-include 'ccxt.php';
-
-$poloniex = new \ccxt\poloniex ();
-$bittrex  = new \ccxt\bittrex  (array ('verbose' => true));
-$quoinex  = new \ccxt\quoinex   ();
-$zaif     = new \ccxt\zaif     (array (
-    'apiKey' => 'YOUR_PUBLIC_API_KEY',
-    'secret' => 'YOUR_SECRET_PRIVATE_KEY',
-));
-$hitbtc   = new \ccxt\hitbtc   (array (
-    'apiKey' => 'YOUR_PUBLIC_API_KEY',
-    'secret' => 'YOUR_SECRET_PRIVATE_KEY',
-));
-
-$exchange_id = 'binance';
-$exchange_class = "\\ccxt\\$exchange_id";
-$exchange = new $exchange_class (array (
-    'apiKey' => 'YOUR_API_KEY',
-    'secret' => 'YOUR_SECRET',
-));
-
-$poloniex_markets = $poloniex->load_markets ();
-
-var_dump ($poloniex_markets);
-var_dump ($bittrex->load_markets ());
-var_dump ($quoinex->load_markets ());
-
-var_dump ($poloniex->fetch_order_book ($poloniex->symbols[0]));
-var_dump ($bittrex->fetch_trades ('BTC/USD'));
-var_dump ($quoinex->fetch_ticker ('ETH/EUR'));
-var_dump ($zaif->fetch_ticker ('BTC/JPY'));
-
-var_dump ($zaif->fetch_balance ());
-
-// sell 1 BTC/JPY for market price, you pay ¥ and receive ฿ immediately
-var_dump ($zaif->id, $zaif->create_market_sell_order ('BTC/JPY', 1));
-
-// buy BTC/JPY, you receive ฿1 for ¥285000 when the order closes
-var_dump ($zaif->id, $zaif->create_limit_buy_order ('BTC/JPY', 1, 285000));
-
-// set a custom user-defined id to your order
-$hitbtc->create_order ('BTC/USD', 'limit', 'buy', 1, 3000, array ('clientOrderId' => '123'));
-```
-
-## Contributing
-
-Please read the [CONTRIBUTING](https://github.com/ccxt/ccxt/blob/master/CONTRIBUTING.md) document before making changes that you would like adopted in the code. Also, read the [Manual](https://docs.ccxt.com/en/latest/manual.html) for more details.
-
-## Support Developer Team
-
-We are investing a significant amount of time into the development of this library. If CCXT made your life easier and you want to help us improve it further, or if you want to speed up development of new features and exchanges, please support us with a tip. We appreciate all contributions!
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-[[Become a sponsor](https://opencollective.com/ccxt#sponsor)]
-
-<a href="https://opencollective.com/ccxt/tiers/sponsor/0/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/1/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/2/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/3/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/4/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/5/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/6/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/7/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/8/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/sponsor/9/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/sponsor/9/avatar.svg"></a>
-
-### Supporters
-
-Support this project by becoming a supporter. Your avatar will show up here with a link to your website.
-
-[[Become a supporter](https://opencollective.com/ccxt#supporter)]
-
-<a href="https://opencollective.com/ccxt/tiers/supporter/0/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/0/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/1/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/1/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/2/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/2/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/3/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/3/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/4/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/4/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/5/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/5/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/6/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/6/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/7/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/7/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/8/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/8/avatar.svg"></a>
-<a href="https://opencollective.com/ccxt/tiers/supporter/9/website" target="_blank"><img src="https://opencollective.com/ccxt/tiers/supporter/9/avatar.svg"></a>
-
-### Backers
-
-Thank you to all our backers! [[Become a backer](https://opencollective.com/ccxt#backer)]
-
-<a href="https://opencollective.com/ccxt#backers" target="_blank"><img src="https://opencollective.com/ccxt/tiers/backer.svg?width=890"></a>
-
-Thank you!
-
-## Social
-
-- [Follow us on Twitter](https://twitter.com/ccxt_official)
-- [Read our blog on Medium](https://medium.com/@ccxt)
-- <sub>[![Discord](https://img.shields.io/discord/690203284119617602?logo=discord&logoColor=white)](https://discord.gg/dhzSKYU)</sub>
-
-## Contact Us
-
-For business inquiries: info@ccxt.trade
